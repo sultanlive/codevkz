@@ -112,3 +112,4 @@ indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
 pangleglobal.com, 5001638,DIRECT
+adcolony.com, 8f7da3fb9b3793eb4ed5725d3d3a442f, DIRECT, 1ad675c9de6b5176
